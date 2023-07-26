@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    background-color: brown;
+    height: 60px;
+    width: auto;
+    margin: 0;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium',
+     'Arial Narrow', Arial, sans-serif;
+     font-size: 50px;
+}
+h2 { background-color: rgb(193, 99, 117);
+    font-family:'Franklin Gothic Medium',
+    'Arial Narrow', Arial, sans-serif;
+    padding-left: 30px;
+    margin: 0;
+    height: 60px;
+    padding-top: 30px;
+}
+nav ul{
+    display: block;
+    background-color: rgb(228, 133, 227);
+    margin: 0;
+    height: 100%;
+    width: auto;
+    padding-top: 20px;
+    padding-bottom: 132px;
+}
+ul li {
+    display: block;
+    margin: 6px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+p {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+}
